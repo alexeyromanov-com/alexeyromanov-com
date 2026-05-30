@@ -8,6 +8,6 @@
 👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](mailto:aleksey.romanov.it@gmail.com)
 
 <a href="https://www.name-romanov.com/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
-<a href="https://www.linkedin.com/in/procellis33/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://www.linkedin.com/in/alexeyromanov-com/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=procellis33&color=brightgreen" alt="procellis33" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexeyromanov-com&color=brightgreen" alt="alexeyromanov-com" /> </p>
